@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <ThingCategoryDef>
+      <defName>Ingots</defName>
+      <label>Ingots</label>
+      <parent>ResourcesRaw</parent>
+      <iconPath>IngotCategory</iconPath>
+      <resourceReadoutRoot>true</resourceReadoutRoot>
+    </ThingCategoryDef>
+    
+</Defs>
